@@ -1,0 +1,3 @@
+para rodar: ./AIvenv/Scripts/python.exe main.py
+
+interface: ./AIvenv/Scripts/streamlit.exe run main.py
